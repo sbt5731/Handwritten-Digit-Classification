@@ -26,9 +26,9 @@ After training for 10 epochs, the model achieved a validation loss of 0.012345 a
 
 To run this code, you need to have the following dependencies installed:
 
-'''- Python 
+- Python 
 - TensorFlow 
-- Keras''' 
+- Keras
 
 You can install the dependencies by running the following command:
 
