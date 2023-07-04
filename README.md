@@ -1,5 +1,5 @@
 
-"""# MNIST Classification with Neural Network
+readme content = """# MNIST Classification with Neural Network
 
 This repository contains a Python script that demonstrates how to train a neural network for classifying handwritten digits using the MNIST dataset.
 
